@@ -2,14 +2,8 @@
 <img src="https://raw.githubusercontent.com/davidfaria/gympoint-backend/master/.github/logo.png">
 </h1>
 <h3 align="center">
-Back-end Node.js - GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat</a>
+App Gympint - projeto Gostack Bootcamp 9 <a href="https://rocketseat.com.br" target="__blank">Rocketseat</a>
 </h3>
-
-<p align = "center">
-<img alt = "Última confirmação do Github" src="https://img.shields.io/github/last-commit/davidfaria/gympoint-backend">
-<img alt = "Idioma principal do GitHub" src="https://img.shields.io/github/languages/top/davidfaria/gympoint-backend">
-<img alt = "GitHub" src = "https://img.shields.io/github/license/davidfaria/gympoint-backend.svg">
-</p>
 
 ## :gear: Back-end
 
