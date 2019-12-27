@@ -25,7 +25,7 @@ App Gympint - projeto Gostack Bootcamp 9 <a href="https://rocketseat.com.br" tar
 git clone https://github.com/davidfaria/gympoint.git
 
 # entrar na pasta do projeto
-cd backend
+cd gympoint/backend
 
 # instalar as dependências
 yarn install
@@ -68,7 +68,7 @@ yarn queue
 ```bash
 
 # entrar na pasta do projeto
-cd frontend
+cd gympoint/frontend
 
 # instalando as dependências do package.json:
 yarn install
@@ -115,7 +115,7 @@ password: 123456
 ```bash
 
 # entrar na pasta do projeto
-cd mobile
+cd gympoint/mobile
 
 # instalando as dependências do package.json:
 yarn install
